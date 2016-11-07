@@ -26,7 +26,7 @@ You're welcome to adapt and use this document for Your own needs. If you make an
 
 ## Your Agreement with MayorKit
 
-Bastien Petit ("MayorKit" or "We") is a French corporation, having its registered office at 15 rue Jules Ferry, 73000 Chambéry, FRANCE. Your access or use of the MayorKit Service is governed by these Terms, which are binding and form a contract between you and MayorKit. The "Service" means the services MayorKit makes available and include our web sites (https://MayorKit.com), our blog, our widget, and any other software, sites, and services offered by MayorKit in connection to any of those.
+Bastien Petit ("MayorKit" or "We") is a French corporation, having its registered office at 15 rue Jules Ferry, 73000 Chambéry, FRANCE. Your access or use of the MayorKit Service is governed by these Terms, which are binding and form a contract between you and MayorKit. The "Service" means the services MayorKit makes available and include our web sites (https://mayorkit.com), our blog, our widget, and any other software, sites, and services offered by MayorKit in connection to any of those.
 
 Please read these Terms carefully before accessing or using the Service. In order to access or use the Service, You must first agree to the Terms. You understand and agree that MayorKit will treat Your access or use of the Service as acceptance of the Terms from that point onwards. If you do not agree to all the terms and conditions of the Terms, then you may not access or use the Service.
 
@@ -51,7 +51,7 @@ If you have any question about the Terms, please contact us at [hello@baguette.e
 
 ## Service Policies and Privacy
 
-The Service shall be subject to the privacy policy for the Service available at https://MayorKit.com/privacy-policy/ (the "Privacy Policy"), which are hereby expressly incorporated into the Terms of Service by reference. You agree to the use of Your data in accordance with MayorKit' Privacy Policy.
+The Service shall be subject to the privacy policy for the Service available at https://mayorkit.com/privacy-policy/ (the "Privacy Policy"), which are hereby expressly incorporated into the Terms of Service by reference. You agree to the use of Your data in accordance with MayorKit' Privacy Policy.
 
 ## Fees for Use of the Service
 
