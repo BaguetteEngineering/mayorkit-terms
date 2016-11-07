@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: November 4th, 2016. Previous versions and diffs are available [here](https://github.com/baguette-eng/mayorkit-terms).
+Last updated: November 4th, 2016. Previous versions and diffs are available [here](https://github.com/BaguetteEngineering/mayorkit-terms).
 
 **MayorKit**  
 Bastien Petit  
