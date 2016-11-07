@@ -26,7 +26,7 @@ You're welcome to adapt and use this document for Your own needs. If you make an
 
 ## Your Agreement with MayorKit
 
-Bastien Petit ("MayorKit" or "We") is a French corporation, having its registered office at 15 rue Jules Ferry, 73000 Chambéry, FRANCE. Your access or use of the MayorKit Service is governed by these Terms, which are binding and form a contract between you and MayorKit. The "Service" means the services MayorKit makes available and include our web sites (https://mayorkit.com), our blog, our widget, and any other software, sites, and services offered by MayorKit in connection to any of those.
+Bastien Petit ("MayorKit" or "We") is a French corporation, having its registered office at 15 rue Jules Ferry, 73000 Chambéry, FRANCE. Your access or use of the MayorKit Service is governed by these Terms, which are binding and form a contract between you and MayorKit. The "Service" means the services MayorKit makes available and include our web sites (https://mayorkit.com), our blog, our applications, and any other software, sites, and services offered by MayorKit in connection to any of those.
 
 Please read these Terms carefully before accessing or using the Service. In order to access or use the Service, You must first agree to the Terms. You understand and agree that MayorKit will treat Your access or use of the Service as acceptance of the Terms from that point onwards. If you do not agree to all the terms and conditions of the Terms, then you may not access or use the Service.
 
@@ -46,7 +46,7 @@ If you have any question about the Terms, please contact us at [hello@baguette.e
 - You are responsible for the security of Your passwords and for any use of Your account.
 - Your use of the Service must comply with all applicable laws, regulations and ordinances.
 - You agree to not engage in any activity that interferes with or disrupts the Service.
-- MayorKit reserves the right to enforce quotas and usage limits (to any resources, including the widget) at its sole discretion, with or without notice, which may result in MayorKit disabling or throttling Your usage of the Service for any amount of time.
+- MayorKit reserves the right to enforce quotas and usage limits (to any resources) at its sole discretion, with or without notice, which may result in MayorKit disabling or throttling Your usage of the Service for any amount of time.
 - You may not access the Service in a manner intended to avoid incurring fees.
 
 ## Service Policies and Privacy
@@ -141,7 +141,7 @@ You agree to hold harmless and indemnify MayorKit, and its subsidiaries, affilia
 
 ## Choice of Law and Dispute Resolution
 
-In the event of any controversy or dispute between MayorKit and You arising out of or in connection with your use of the Service (such as our website, blog, widget etc.) provided by MayorKit, the parties shall attempt, promptly, in good faith and before any judicial action, to resolve the dispute through alternative dispute resolution.
+In the event of any controversy or dispute between MayorKit and You arising out of or in connection with your use of the Service (such as our website, blog, applications etc.) provided by MayorKit, the parties shall attempt, promptly, in good faith and before any judicial action, to resolve the dispute through alternative dispute resolution.
 
 The Terms of Service shall be deemed to have been entered into and shall be construed and enforced in accordance with the laws of France, without giving effect to any conflicts of law statutes. Any controversy, dispute or claim arising out of or related to the Terms, the Privacy Policy or the Service will be governed by the laws of France and be settled in the courts of Chambéry (France). Any and all disputes that You may have with MayorKit shall be resolved individually, without resort to any form of class action.
 

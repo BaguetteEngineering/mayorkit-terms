@@ -26,7 +26,7 @@ That's the basic idea, but you must read through the entire Privacy Policy below
 
 This document is an adaptation of the [Baremetrics Privacy Policy](https://baremetrics.com/privacy), which is itself based upon the [Automattic Privacy Policy](http://automattic.com/privacy/) and is licensed under [Creative Commons Attribution Share-Alike License 2.5](http://creativecommons.org/licenses/by-sa/2.5/). Basically, this means you can use it verbatim or edited, but you must release new versions under the same license and you have to credit Automattic somewhere (like this!). Automattic is not connected with and does not sponsor or endorse MayorKit or its use of the work.
 
-MayorKit makes available services include our web sites (https://mayorkit.com (the "Site")), our blog, our widget, and any other software, sites, and services offered by MayorKit in connection to any of those (taken together, the "Service"). It is MayorKit's policy to respect your privacy regarding any information we may collect while operating our Site.
+MayorKit makes available services include our web sites (https://mayorkit.com (the "Site")), our blog, our applications, and any other software, sites, and services offered by MayorKit in connection to any of those (taken together, the "Service"). It is MayorKit's policy to respect your privacy regarding any information we may collect while operating our Site.
 
 ## Visitors
 
